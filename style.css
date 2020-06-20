@@ -83,34 +83,34 @@ textarea{
 }
 
 #ten {
-  background-color: lightskyblue;
+  background-color: lawngreen;
 }
 #eleven {
-  background-color: lightyellow;
-}
-#twelve {
   background-color: lightgray;
 }
+#twelve {
+  background-color: red;
+}
 #one {
-  background-color: cadetblue;
+  background-color: lawngreen;
 }
 #two {
   background-color: lightgray;
 }
 #eight {
-  background-color: wheat;
+  background-color: ;
 }
 #three {
   background-color: lawngreen;
 }
 #four {
-  background-color:lightblue;
+  background-color:lightgray;
 }
 #five {
   background-color: lawngreen;
 }
 #six {
-  background-color: lightslategray;
+  background-color: lightgray;
 }
 #addon-wrapping1 {
   width: 60px;
@@ -125,5 +125,9 @@ footer {
   background-color: lavender;
   width: 6850px;
   
+}
+#clear {
+  position: relative;
+  left: 550px;
 }
 
